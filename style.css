@@ -9,6 +9,18 @@
 #greeting-container {
   margin-top: 20px;
 }
+.home{
+    background-image: url('./images/Hawaii2.JPG');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.welcome{
+    margin-left: 10%;
+    margin-top: 15%;
+    size: 40px;
+}
 
 img{
     display: block;
