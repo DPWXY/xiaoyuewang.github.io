@@ -16,9 +16,15 @@
     background-size: cover;
 }
 
-@media screen and (min-width: 100px) and (max-width: 480px) {
+@media (max-width: 1080px) {
     .home {
         background-image: url('./images/Mobile.JPG');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    .welcome{
+        color: white;
     }
 }
 
